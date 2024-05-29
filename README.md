@@ -2,6 +2,8 @@
 
 This project is a mock-up of a landing page designed for an imaginary, small-scale tourism company based in the Faroe Islands. It aims to showcase the services offered by the company and provide visitors with a glimpse of the unique experiences available in this unique destination.
 
+The page is live at https://jszor.github.io/sample-lp/
+
 ## Purpose:
 
 The purpose of this project is twofold:
